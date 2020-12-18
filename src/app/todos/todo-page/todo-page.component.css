@@ -1,0 +1,10 @@
+.toggle-all + label:before {
+
+	color: rgba(128, 128, 128, 0.904);
+
+}
+
+.toggle-all :checked + label:before {
+  color: rgb(58, 3, 3);
+
+}
